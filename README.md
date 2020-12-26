@@ -2,4 +2,4 @@
  
 ## It's just a demo to learn git commands
 
-Demo for Practice
+Demo for Practice ! Let's Learn
